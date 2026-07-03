@@ -3,10 +3,14 @@
   <h1>Vibe Coding Agency</h1>
   <p><strong>AI-native engineering & consulting for teams that ship.</strong></p>
   <p>
-    <a href="https://vibecodingagency.com">Website</a> ·
+    <a href="https://vibecodingagency.com">🌐 Website</a> ·
     <a href="https://vibecodingagency.com/services/">Services</a> ·
     <a href="https://vibecodingagency.com/resources/">Resources</a> ·
     <a href="https://vibecodingagency.com/gpu-cloud/">UltraWork</a>
+  </p>
+  <p>
+    <a href="https://github.com/Vibe-Coding-Agency/vibe-coder-beginning-starter-pack"><img alt="Vibe Coder Starter Pack" src="https://img.shields.io/badge/Vibe%20Coder-Starter%20Pack-76b900?style=flat-square"></a>
+    <a href="https://vibecodingagency.com/gpu-cloud/"><img alt="UltraWork" src="https://img.shields.io/badge/UltraWork-GPU%20Cloud-60a5fa?style=flat-square"></a>
   </p>
 </div>
 
